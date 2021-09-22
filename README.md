@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buraslan
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Salesforce Development
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
